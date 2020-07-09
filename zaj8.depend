@@ -1,0 +1,375 @@
+# depslib dependency file v1.0
+1545386164 source:d:\programowanie\zaj7\zaj8\zaj8\czloncalkujacy.cpp
+	"CzlonCalkujacy.hpp"
+
+1547639799 d:\programowanie\zaj7\zaj8\zaj8\czloncalkujacy.hpp
+	"ObiektCiagly.hpp"
+
+1547639799 d:\programowanie\zaj7\zaj8\zaj8\obiektciagly.hpp
+	"Obiekt.hpp"
+	"SolverFactory.hpp"
+
+1547639580 d:\programowanie\zaj7\zaj8\zaj8\obiekt.hpp
+	"Types.hpp"
+
+1546961100 d:\programowanie\zaj7\zaj8\zaj8\types.hpp
+	<string>
+	<map>
+	<valarray>
+	<functional>
+	<memory>
+	<ostream>
+
+1547037114 d:\programowanie\zaj7\zaj8\zaj8\solverfactory.hpp
+	<string>
+	"Solver.hpp"
+
+1547037045 d:\programowanie\zaj7\zaj8\zaj8\solver.hpp
+	"Obiekt.hpp"
+
+1547033980 source:d:\programowanie\zaj7\zaj8\zaj8\czloninercyjny.cpp
+	"CzlonInercyjny.hpp"
+
+1547639799 d:\programowanie\zaj7\zaj8\zaj8\czloninercyjny.hpp
+	"ObiektCiagly.hpp"
+
+1547638683 source:d:\programowanie\zaj7\zaj8\zaj8\czlonoscylacyjny.cpp
+	"CzlonOscylacyjny.hpp"
+	<iostream>
+
+1547639799 d:\programowanie\zaj7\zaj8\zaj8\czlonoscylacyjny.hpp
+	"ObiektCiagly.hpp"
+
+1545221054 source:d:\programowanie\zaj7\zaj8\zaj8\czlonpid.cpp
+	"CzlonPID.hpp"
+
+1547639799 d:\programowanie\zaj7\zaj8\zaj8\czlonpid.hpp
+	"ObiektCiagly.hpp"
+
+1547640188 source:d:\programowanie\zaj7\zaj8\zaj8\main.cpp
+	<iostream>
+	"Model.hpp"
+	"ObiektFactory.hpp"
+	"SolverFactory.hpp"
+	"SymulinkException.hpp"
+
+1548244120 d:\programowanie\zaj7\zaj8\zaj8\model.hpp
+	"Types.hpp"
+	"Sygnal.hpp"
+	"Obiekt.hpp"
+	"Sumator.hpp"
+
+1546963488 d:\programowanie\zaj7\zaj8\zaj8\sygnal.hpp
+	"Types.hpp"
+	<iostream>
+
+1548244122 d:\programowanie\zaj7\zaj8\zaj8\obiektfactory.hpp
+	<string>
+	"Obiekt.hpp"
+
+1544461754 d:\programowanie\zaj7\zaj8\zaj8\symulinkexception.hpp
+	<exception>
+
+1546963402 source:d:\programowanie\zaj7\zaj8\zaj8\model.cpp
+	"Model.hpp"
+	<algorithm>
+	<iostream>
+
+1547638754 source:d:\programowanie\zaj7\zaj8\zaj8\obiektciagly.cpp
+	"ObiektCiagly.hpp"
+
+1547036891 source:d:\programowanie\zaj7\zaj8\zaj8\solvereuler.cpp
+	"SolverEuler.hpp"
+
+1547036436 d:\programowanie\zaj7\zaj8\zaj8\solvereuler.hpp
+	"Solver.hpp"
+
+1547036386 source:d:\programowanie\zaj7\zaj8\zaj8\solverfactory.cpp
+	"SolverFactory.hpp"
+	"SolverEuler.hpp"
+	"SolverRK4.hpp"
+	"SymulinkException.hpp"
+
+1547037139 d:\programowanie\zaj7\zaj8\zaj8\solverrk4.hpp
+	"Solver.hpp"
+
+1547036954 source:d:\programowanie\zaj7\zaj8\zaj8\solverrk4.cpp
+	"SolverRK4.hpp"
+
+1547037380 source:d:\programowanie\zaj7\zaj8\zaj8\obiektfactory.cpp
+	"ObiektFactory.hpp"
+	<iostream>
+	<fstream>
+	"CzlonCalkujacy.hpp"
+	"CzlonInercyjny.hpp"
+	"CzlonOscylacyjny.hpp"
+	"CzlonPID.hpp"
+	"Stala.hpp"
+	"Scope.hpp"
+	"SymulinkException.hpp"
+
+1546963420 d:\programowanie\zaj7\zaj8\zaj8\stala.hpp
+	"Types.hpp"
+	<iostream>
+
+1547640396 d:\programowanie\zaj7\zaj8\zaj8\scope.hpp
+	"Types.hpp"
+	<iostream>
+
+1547640396 source:d:\programowanie\zaj7\zaj8\zaj8\types.cpp
+	"Types.hpp"
+
+1545386164 source:g:\programowanie\zaj7\zaj8\zaj8\czloncalkujacy.cpp
+	"CzlonCalkujacy.hpp"
+
+1547639799 g:\programowanie\zaj7\zaj8\zaj8\czloncalkujacy.hpp
+	"ObiektCiagly.hpp"
+
+1547639799 g:\programowanie\zaj7\zaj8\zaj8\obiektciagly.hpp
+	"Obiekt.hpp"
+	"SolverFactory.hpp"
+
+1547639580 g:\programowanie\zaj7\zaj8\zaj8\obiekt.hpp
+	"Types.hpp"
+
+1546961100 g:\programowanie\zaj7\zaj8\zaj8\types.hpp
+	<string>
+	<map>
+	<valarray>
+	<functional>
+	<memory>
+	<ostream>
+
+1547037114 g:\programowanie\zaj7\zaj8\zaj8\solverfactory.hpp
+	<string>
+	"Solver.hpp"
+
+1547037045 g:\programowanie\zaj7\zaj8\zaj8\solver.hpp
+	"Obiekt.hpp"
+
+1547033980 source:g:\programowanie\zaj7\zaj8\zaj8\czloninercyjny.cpp
+	"CzlonInercyjny.hpp"
+
+1547639799 g:\programowanie\zaj7\zaj8\zaj8\czloninercyjny.hpp
+	"ObiektCiagly.hpp"
+
+1547638683 source:g:\programowanie\zaj7\zaj8\zaj8\czlonoscylacyjny.cpp
+	"CzlonOscylacyjny.hpp"
+	<iostream>
+
+1547639799 g:\programowanie\zaj7\zaj8\zaj8\czlonoscylacyjny.hpp
+	"ObiektCiagly.hpp"
+
+1545221054 source:g:\programowanie\zaj7\zaj8\zaj8\czlonpid.cpp
+	"CzlonPID.hpp"
+
+1547639799 g:\programowanie\zaj7\zaj8\zaj8\czlonpid.hpp
+	"ObiektCiagly.hpp"
+
+1547055157 source:g:\programowanie\zaj7\zaj8\zaj8\main.cpp
+	<iostream>
+	"Model.hpp"
+	"ObiektFactory.hpp"
+	"SolverFactory.hpp"
+	"SymulinkException.hpp"
+
+1548235361 g:\programowanie\zaj7\zaj8\zaj8\model.hpp
+	"Types.hpp"
+	"Sygnal.hpp"
+	"Obiekt.hpp"
+	"Sumator.hpp"
+
+1546963488 g:\programowanie\zaj7\zaj8\zaj8\sygnal.hpp
+	"Types.hpp"
+	<iostream>
+
+1547036863 g:\programowanie\zaj7\zaj8\zaj8\obiektfactory.hpp
+	<string>
+	"Obiekt.hpp"
+
+1544461754 g:\programowanie\zaj7\zaj8\zaj8\symulinkexception.hpp
+	<exception>
+
+1546963402 source:g:\programowanie\zaj7\zaj8\zaj8\model.cpp
+	"Model.hpp"
+	<algorithm>
+	<iostream>
+
+1547638754 source:g:\programowanie\zaj7\zaj8\zaj8\obiektciagly.cpp
+	"ObiektCiagly.hpp"
+
+1547037380 source:g:\programowanie\zaj7\zaj8\zaj8\obiektfactory.cpp
+	"ObiektFactory.hpp"
+	<iostream>
+	<fstream>
+	"CzlonCalkujacy.hpp"
+	"CzlonInercyjny.hpp"
+	"CzlonOscylacyjny.hpp"
+	"CzlonPID.hpp"
+	"Stala.hpp"
+	"Scope.hpp"
+	"SymulinkException.hpp"
+
+1546963420 g:\programowanie\zaj7\zaj8\zaj8\stala.hpp
+	"Types.hpp"
+	<iostream>
+
+1547640396 g:\programowanie\zaj7\zaj8\zaj8\scope.hpp
+	"Types.hpp"
+	<iostream>
+
+1547036891 source:g:\programowanie\zaj7\zaj8\zaj8\solvereuler.cpp
+	"SolverEuler.hpp"
+
+1547036436 g:\programowanie\zaj7\zaj8\zaj8\solvereuler.hpp
+	"Solver.hpp"
+
+1547036386 source:g:\programowanie\zaj7\zaj8\zaj8\solverfactory.cpp
+	"SolverFactory.hpp"
+	"SolverEuler.hpp"
+	"SolverRK4.hpp"
+	"SymulinkException.hpp"
+
+1547037139 g:\programowanie\zaj7\zaj8\zaj8\solverrk4.hpp
+	"Solver.hpp"
+
+1547036954 source:g:\programowanie\zaj7\zaj8\zaj8\solverrk4.cpp
+	"SolverRK4.hpp"
+
+1547640396 source:g:\programowanie\zaj7\zaj8\zaj8\types.cpp
+	"Types.hpp"
+
+1547642281 source:g:\programowanie\zaj7\zaj8\zaj8\sumator.cpp
+	"Sumator.hpp"
+
+1547642250 g:\programowanie\zaj7\zaj8\zaj8\sumator.hpp
+	"Obiekt.hpp"
+	"SolverFactory.hpp"
+
+1547642250 d:\programowanie\zaj7\zaj8\zaj8\sumator.hpp
+	"Obiekt.hpp"
+	"SolverFactory.hpp"
+
+1547642281 source:d:\programowanie\zaj7\zaj8\zaj8\sumator.cpp
+	"Sumator.hpp"
+
+1547036386 source:d:\air\programowanie_zorientowanie_obiektowo\zaj7\zaj8\zaj8\solverfactory.cpp
+	"SolverFactory.hpp"
+	"SolverEuler.hpp"
+	"SolverRK4.hpp"
+	"SymulinkException.hpp"
+
+1548529149 d:\air\programowanie_zorientowanie_obiektowo\zaj7\zaj8\zaj8\solverfactory.hpp
+	<string>
+	"Solver.hpp"
+
+1548529048 d:\air\programowanie_zorientowanie_obiektowo\zaj7\zaj8\zaj8\solver.hpp
+	"Obiekt.hpp"
+
+1548529002 d:\air\programowanie_zorientowanie_obiektowo\zaj7\zaj8\zaj8\obiekt.hpp
+	"Types.hpp"
+
+1548528867 d:\air\programowanie_zorientowanie_obiektowo\zaj7\zaj8\zaj8\types.hpp
+	<string>
+	<map>
+	<valarray>
+	<functional>
+	<memory>
+	<ostream>
+
+1548529112 d:\air\programowanie_zorientowanie_obiektowo\zaj7\zaj8\zaj8\solvereuler.hpp
+	"Solver.hpp"
+
+1548529189 d:\air\programowanie_zorientowanie_obiektowo\zaj7\zaj8\zaj8\solverrk4.hpp
+	"Solver.hpp"
+
+1548529236 d:\air\programowanie_zorientowanie_obiektowo\zaj7\zaj8\zaj8\symulinkexception.hpp
+	<exception>
+
+1548528400 source:d:\air\programowanie_zorientowanie_obiektowo\zaj7\zaj8\zaj8\czloncalkujacy.cpp
+	"CzlonCalkujacy.hpp"
+
+1548528800 d:\air\programowanie_zorientowanie_obiektowo\zaj7\zaj8\zaj8\czloncalkujacy.hpp
+	"ObiektCiagly.hpp"
+
+1548528944 d:\air\programowanie_zorientowanie_obiektowo\zaj7\zaj8\zaj8\obiektciagly.hpp
+	"Obiekt.hpp"
+	"SolverFactory.hpp"
+
+1548528399 source:d:\air\programowanie_zorientowanie_obiektowo\zaj7\zaj8\zaj8\czloninercyjny.cpp
+	"CzlonInercyjny.hpp"
+
+1548528801 d:\air\programowanie_zorientowanie_obiektowo\zaj7\zaj8\zaj8\czloninercyjny.hpp
+	"ObiektCiagly.hpp"
+
+1548528398 source:d:\air\programowanie_zorientowanie_obiektowo\zaj7\zaj8\zaj8\czlonoscylacyjny.cpp
+	"CzlonOscylacyjny.hpp"
+	<iostream>
+
+1548528802 d:\air\programowanie_zorientowanie_obiektowo\zaj7\zaj8\zaj8\czlonoscylacyjny.hpp
+	"ObiektCiagly.hpp"
+
+1548528397 source:d:\air\programowanie_zorientowanie_obiektowo\zaj7\zaj8\zaj8\czlonpid.cpp
+	"CzlonPID.hpp"
+
+1548528893 d:\air\programowanie_zorientowanie_obiektowo\zaj7\zaj8\zaj8\czlonpid.hpp
+	"ObiektCiagly.hpp"
+
+1548528394 source:d:\air\programowanie_zorientowanie_obiektowo\zaj7\zaj8\zaj8\model.cpp
+	"Model.hpp"
+	<algorithm>
+	<iostream>
+
+1548528925 d:\air\programowanie_zorientowanie_obiektowo\zaj7\zaj8\zaj8\model.hpp
+	"Types.hpp"
+	"Sygnal.hpp"
+	"Obiekt.hpp"
+	"Sumator.hpp"
+
+1548528846 d:\air\programowanie_zorientowanie_obiektowo\zaj7\zaj8\zaj8\sygnal.hpp
+	"Types.hpp"
+	<iostream>
+
+1548528835 d:\air\programowanie_zorientowanie_obiektowo\zaj7\zaj8\zaj8\sumator.hpp
+	"Obiekt.hpp"
+	"SolverFactory.hpp"
+
+1548528393 source:d:\air\programowanie_zorientowanie_obiektowo\zaj7\zaj8\zaj8\obiektciagly.cpp
+	"ObiektCiagly.hpp"
+
+1548528391 source:d:\air\programowanie_zorientowanie_obiektowo\zaj7\zaj8\zaj8\obiektfactory.cpp
+	"ObiektFactory.hpp"
+	<iostream>
+	<fstream>
+	"CzlonCalkujacy.hpp"
+	"CzlonInercyjny.hpp"
+	"CzlonOscylacyjny.hpp"
+	"CzlonPID.hpp"
+	"Stala.hpp"
+	"Scope.hpp"
+	"SymulinkException.hpp"
+
+1548528330 d:\air\programowanie_zorientowanie_obiektowo\zaj7\zaj8\zaj8\obiektfactory.hpp
+	<string>
+	"Obiekt.hpp"
+
+1548528823 d:\air\programowanie_zorientowanie_obiektowo\zaj7\zaj8\zaj8\stala.hpp
+	"Types.hpp"
+	<iostream>
+
+1548528943 d:\air\programowanie_zorientowanie_obiektowo\zaj7\zaj8\zaj8\scope.hpp
+	"Types.hpp"
+	<iostream>
+
+1548528391 source:d:\air\programowanie_zorientowanie_obiektowo\zaj7\zaj8\zaj8\solvereuler.cpp
+	"SolverEuler.hpp"
+
+1548528388 source:d:\air\programowanie_zorientowanie_obiektowo\zaj7\zaj8\zaj8\solverrk4.cpp
+	"SolverRK4.hpp"
+
+1548528387 source:d:\air\programowanie_zorientowanie_obiektowo\zaj7\zaj8\zaj8\sumator.cpp
+	"Sumator.hpp"
+
+1548528383 source:d:\air\programowanie_zorientowanie_obiektowo\zaj7\zaj8\zaj8\types.cpp
+	"Types.hpp"
+
